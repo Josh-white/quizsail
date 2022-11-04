@@ -13,13 +13,15 @@ Prove remaining hypothesis
 Fix the error
 Collect more data
 ===
-Indicate if the following statements about module testing is true or false. Test cases are supplemented by applying black-box methods to the module's specification.
+Indicate if the following statements about module testing is true or false.
+Test cases are supplemented by applying black-box methods to the module's specification.
  True
  False
 ---
 True
 ===
-Indicate if the following statements about module testing is true or false. Module's logic is analyzed using the white-box methods.
+Indicate if the following statements about module testing is true or false.
+Module's logic is analyzed using the white-box methods.
  True
  False
 ---
@@ -312,7 +314,7 @@ It consists of finding errors in the GUI, or front end, of an application.
 ---
 True
 ===
-Select the descriptions that as associated with Acceptance testing. (choose two)
+Select the descriptions that are associated with Acceptance testing. (choose two)
  It is performed by the program's customer or end user.
  It compares the initial requirements of the program to its end user current needs.
  Its test cases are developed by the organization that produced the system.
@@ -738,7 +740,8 @@ All code modules must have primary tests before coding begins.
 
 The primary tests must be defined and created before coding the module.
 ===
-Is the given statements about system testing is true or false. It falls under the category of black box testing.
+Is the given statements about system testing true or false.
+It falls under the category of black box testing.
  True
  False
 ---
@@ -992,7 +995,8 @@ The presentation layer provides the user interface (or graphical user interface 
 ---
 True
 ===
-Is the given statements about system testing is true or false. It is a process of testing the functions of the complete system or program.
+Is the given statement about system testing true or false.
+It is a process of testing the functions of the complete system or program.
  True
  False
 ---
@@ -1274,7 +1278,8 @@ Who should create automated unit tests?
 ---
 Program developer
 ===
-Is the given statements about system testing is true or false. It involves testing of the user's experience with the application.
+Is the given statements about system testing true or false.
+It involves testing of the user's experience with the application.
  True
  False
 ---
@@ -1455,7 +1460,8 @@ Selecting random users—persons who are not familiar with the program's specifi
 ---
 True
 ===
-Is the following statement about the specifications for a debugging command, true or false. Underlined operands represent the values used when the operand is omitted.
+Is the following statement about the specifications for a debugging command, true or false.
+Underlined operands represent the values used when the operand is omitted.
  True
  False
 ---
@@ -1513,7 +1519,8 @@ Select the description that matches the Volume test case.
 ---
 Subjects the program to heavy loads of data
 ===
-Is the given statements about system testing is true or false. It focuses on translation errors made during the designing of external specification.
+Is the given statements about system testing true or false.
+It focuses on translation errors made during the designing of external specification.
  True
  False
 ---
